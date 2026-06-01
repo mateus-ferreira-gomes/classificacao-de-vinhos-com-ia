@@ -230,27 +230,10 @@ Modelo baseado em múltiplas árvores de decisão.
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```text
-wine-quality-analysis-and-classification/
-│
-├── VisualizacaoDados.ipynb
-├── modelos_machine_learning.ipynb
-├── Trabalho_Final_IA_Mateus_Ferreira_Gomes.docx
-├── README.md
-│
-└── dataset/
-    └── wine_quality_dataset.csv
-```
-
----
 
 # 👨‍🎓 Autor
 
 **Mateus Ferreira Gomes**
-
-RA: **33087**
 
 Disciplina: **Inteligência Artificial**
 
